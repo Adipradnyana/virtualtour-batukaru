@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&display=swap');
+
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+
 .Halaman-Utama {
     background-image: url(/img/Pura\ Luhur\ Batukaru.jpg);
     background-size: cover;
@@ -74,4 +80,8 @@
     -o-border-radius: 5px;
     width: 750px;
     object-fit: cover;
+}
+
+.carouselbutton:hover {
+    color: black;
 }
