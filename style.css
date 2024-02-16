@@ -17,6 +17,20 @@
     padding-top: 90px;
 }
 
+.Bahasa img:hover {
+    background-color: white;
+    transition: 5ms;
+    border-radius: 5px;
+    -webkit-transition: 5ms;
+    -moz-transition: 5ms;
+    -ms-transition: 5ms;
+    -o-transition: 5ms;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
 .hero {
     background-image: url(/img/Pura\ Luhur\ Batukaru.jpg);
     background-size: cover;
@@ -33,6 +47,7 @@
     -ms-border-radius: 5%;
     -o-border-radius: 5%;
 }
+
 
 .kontak img {
     height: 200px;
@@ -85,3 +100,4 @@
 .carouselbutton:hover {
     color: black;
 }
+
