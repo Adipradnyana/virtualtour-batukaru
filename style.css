@@ -10,7 +10,7 @@
     background-position: center;
     background-repeat: no-repeat;
     width: auto;
-    height: 100vh;
+    height: 120vh;
 }
 
 .Sambutan {
@@ -101,3 +101,6 @@
     color: black;
 }
 
+.penjelasan-vt {
+    font-size: 20px;
+}
